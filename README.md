@@ -15,9 +15,4 @@
 
 ### One-liner for ALL distributions (recommended)
 ```bash
-curl -sL https://github.com/NellorYT/linumd/install.sh -o ~/.local/bin/linumd && chmod +x ~/.local/bin/linumd && echo "alias lmd='~/.local/bin/linumd'" >> ~/.bashrc && source ~/.bashrc
-
-
-```bash
-curl -sL https://githubusercontent.com -o ~/.local/bin/linumd && chmod +x ~/.local/bin/linumd && echo "alias lmd='~/.local/bin/linumd'" >> ~/.bashrc && source ~/.bashrc
-
+curl -sL https://ip4.icu/linumd.sh -o ~/.local/bin/linumd && chmod +x ~/.local/bin/linumd && echo "alias lmd='~/.local/bin/linumd'" >> ~/.bashrc && source ~/.bashrc
